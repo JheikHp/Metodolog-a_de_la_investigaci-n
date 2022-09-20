@@ -1,4 +1,4 @@
-# Metodologia de la investigacion
+# Metodología de la investigación
 
 Mi primer repositorio
 
