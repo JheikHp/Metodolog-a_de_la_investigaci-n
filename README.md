@@ -1,2 +1,2 @@
-# Metodolog-a_de_la_investigaci-n
+# Metodologia_de_la_investigacion
 Mi primer repositorio
